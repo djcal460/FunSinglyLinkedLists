@@ -1,5 +1,6 @@
 # FunSinglyLinkedLists
-###Interactive terminal app demonstrating singly linked list computations
+
+### Interactive terminal app demonstrating singly linked list computations
 
 FunSinglyLinkedLists was developed in c language to demonstrate how a globally or locally created singly linked list can be manipulated using pointers in many many ways.
   - Enter your own elements to create a magically-numbered singly linked list
@@ -20,7 +21,7 @@ $ make
 $ ./funfunlinkedlists
 ```
 
-Don't have time to type in "make"? Well, I have another solution for you...
+Don't have all that time to type in "make"? Well, I have another solution for you...
 
 ```sh
 $ gcc -I./ -o funfunlinkedlists menufunc.c llfunc.c funfunlinkedlists.c
